@@ -481,7 +481,7 @@ export class LawnMowerCard extends LitElement {
           <div class="toolbar">
             <ha-icon-button
               label="${localize('common.start')}"
-              @click="${this.handleLawnMowerAction('start')}"
+              @click="${this.handleLawnMowerAction('start_mowing')}"
               ><ha-icon icon="hass:play"></ha-icon>
             </ha-icon-button>
 
