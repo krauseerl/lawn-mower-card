@@ -21,7 +21,7 @@
     "custom-cards",
     "lawn-mower"
   ],
-  "author": "cociweb",
+  "author": "krauseerl",
   "license": "MIT",
   "dependencies": {
     "custom-card-helpers": "^1.6.4",
